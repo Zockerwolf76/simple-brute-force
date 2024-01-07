@@ -17,7 +17,7 @@ def brute_force():
             print(f"attempt: {attempts}, guess: {guess}")
             if guess == password:
 
-                # Gesuchts Passwort wurde gefunden
+                # Gesuchtes Passwort wurde gefunden
                 print("\n----------------------------------")
                 print("FOUND PASSWORD:")
                 print(f"Attempt: {attempts}")
